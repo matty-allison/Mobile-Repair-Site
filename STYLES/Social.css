@@ -4,7 +4,9 @@
   box-sizing: border-box;
 }
 
-body{font-family:sans-serif;}
+body {
+  font-family: sans-serif;
+}
 
 #social {
   background-color: black;
